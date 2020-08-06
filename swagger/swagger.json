@@ -3,7 +3,7 @@
   "info": {
     "title": "Capture Order API",
     "description": "Capture Order",
-    "version": "1.0.0"
+    "version": "3.0.0"
   },
   "basePath": "/v1",
   "paths": {
